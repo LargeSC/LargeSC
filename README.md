@@ -61,8 +61,8 @@ When I'm not coding you can find me:
 
 ### What I'm learning
 <p>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React-logo">
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap-logo">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-logo">
   <img src="https://github.com/vscode-icons/vscode-icons/blob/5628062179754442985d4a4e047501adaaf9491f/icons/file_type_light_solidity.svg" alt="solidity-logo" width="64">
 </p>
 <br>
