@@ -27,7 +27,7 @@ When I'm not coding you can find me:
      this.name='Santiago Carral'
      this.age=33
      this.hobbies='woodworking, NFTs, genart, ski'
-     this.superpowers= 'learning, collaboration'
+     this.superpowers= 'learning, collaboration, problem solving'
      this.myersBriggs= 'ENFP'
    }
 
@@ -36,12 +36,13 @@ When I'm not coding you can find me:
      work='Looking for opportunities in Web2 or Web3';
      play='Generative Art'
      community= 'Revolucion NFT';
-     learning= 'Buildspace Smart Contracts'
+     learning= 'Buildspace Smart Contracts, Scrimba Learn React'
    }
 
    funFacts() {
      youTube='Corte & Ensamble'
      lastCorpJob:'P&G Europe Brand Director'
+     pets='3 cats'
    }
      
  }
