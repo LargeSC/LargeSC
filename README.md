@@ -52,7 +52,7 @@ When I'm not coding you can find me:
 ### What I always play with
 <p> 
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React-logo">
-  <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="NextJS-logo">
+  <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="NextJS-logo">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html-logo">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css-logo">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js-logo">
