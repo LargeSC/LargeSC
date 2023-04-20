@@ -7,7 +7,7 @@ I'm a front-end developer, woodworker and marketeer. Looking for job opportuniti
 
 When I'm not coding you can find me:
 - woodworking :construction_worker:, 
-- at the beach :🏖: 
+- at the beach 🏖
 - working on my genart 💻:art: (although that's coding too...:grin:)
 - chilling with my husband :two_men_holding_hands: and our 3 cats :smiley_cat:
 
@@ -17,6 +17,22 @@ When I'm not coding you can find me:
   [![Linkedin Badge](https://img.shields.io/badge/-SantiCarral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-carral-a2643424/)](https://www.linkedin.com/in/santiago-carral-a2643424/)
   [![Gmail Badge](https://img.shields.io/badge/-scarral88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scarral88@gmail.com)](scarral88@gmail.com)
 </div>
+
+<br>
+
+## My Tech Stack:
+  - React
+  - Next JS (v13) / SSG / SSR
+  - TypeScript
+  - Git / Github / Bitbucket
+  - JS
+  - HTML & CSS
+  - Chakra UI
+  - Styled Components
+  - JEST / React Testing Library
+  - Mongo DB
+  - Vercel
+  - AVO
 <br>
 
 ## How I'd define myself...
@@ -46,28 +62,6 @@ When I'm not coding you can find me:
      
  }
  ```
- 
-<br>
-
-### What I always play with
-<p> 
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React-logo">
-  <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="NextJS-logo">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html-logo">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css-logo">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js-logo">
-  <img src="https://hello.p5js.org/assets/p5-sq-reverse.svg" alt="p5js-logo" height="64">
-</p>
-
-<br>
-
-### What I'm learning
-<p>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="Mongo DB">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express JS">
-</p>
-<br>
 
 
 ### Why I love woodworking & coding and why they're so similar?
